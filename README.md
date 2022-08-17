@@ -1,2 +1,2 @@
 # tryiteditor
-Try It Editor
+Try It Editor in Ukrainian lang
